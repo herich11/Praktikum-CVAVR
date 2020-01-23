@@ -1,0 +1,5 @@
+VERSION:3 SOURCE_TIMESTAMP:4F69B20E
+NODE:I LEVEL:0 LINE:23 "C:\cvavreval\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavreval\inc\alcd.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavreval\inc\delay.h"
+NODE:F LEVEL:0 LINE:31 "main(void)"

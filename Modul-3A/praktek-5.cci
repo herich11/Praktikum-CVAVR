@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:4F698855
+NODE:I LEVEL:0 LINE:23 "C:\cvavreval\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavreval\inc\delay.h"
+NODE:V LEVEL:0 LINE:27 "dataLED1 -> RAM:????"
+NODE:V LEVEL:0 LINE:28 "dataLED2 -> RAM:????"
+NODE:V LEVEL:0 LINE:29 "i -> R5"
+NODE:V LEVEL:0 LINE:30 "j -> R4"
+NODE:F LEVEL:0 LINE:32 "lampu1(void)"
+NODE:F LEVEL:0 LINE:44 "lampu2(void)"
+NODE:F LEVEL:0 LINE:56 "main(void)"

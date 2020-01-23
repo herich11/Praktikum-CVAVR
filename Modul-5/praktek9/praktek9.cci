@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:4F6BB684
+NODE:I LEVEL:0 LINE:23 "C:\cvavreval\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavreval\inc\delay.h"
+NODE:V LEVEL:0 LINE:27 "dt -> R5"
+NODE:V LEVEL:0 LINE:27 "dtkey -> R4"
+NODE:F LEVEL:0 LINE:28 "detek_key(void)"
+NODE:F LEVEL:0 LINE:97 "main(void)"
